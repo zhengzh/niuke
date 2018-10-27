@@ -1,0 +1,1 @@
+cat $1.txt | python3 $1.py
